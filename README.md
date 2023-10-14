@@ -13,9 +13,9 @@ Example: <br>
 ![image](https://github.com/vinamaulina/Data-Cleansing/assets/114405502/2d850efd-f71e-49ac-9b95-f5ed0f08f7a0)
 
 ### Handle missing data
-You can’t ignore missing data because many algorithms will not accept missing values. There are a couple of ways to deal with missing data. Neither is optimal, but both can be considered.
-As a first option, you can drop observations that have missing values, but doing this will drop or lose information, so be mindful of this before you remove it.
-As a second option, you can input missing values based on other observations; again, there is an opportunity to lose integrity of the data because you may be operating from assumptions and not actual observations.
+You can’t ignore missing data because many algorithms will not accept missing values. There are a couple of ways to deal with missing data. Neither is optimal, but both can be considered. <br>
+As a first option, you can drop observations that have missing values, but doing this will drop or lose information, so be mindful of this before you remove it. <br>
+As a second option, you can input missing values based on other observations; again, there is an opportunity to lose integrity of the data because you may be operating from assumptions and not actual observations. <br>
 As a third option, you might alter the way the data is used to effectively navigate null values. <br>
 Example: <br>
 ![image](https://github.com/vinamaulina/Data-Cleansing/assets/114405502/f9315774-a4fc-4889-830a-6aaabb060f8d)
